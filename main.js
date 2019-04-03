@@ -1,0 +1,1 @@
+var strings = ['a','b','c','d'];
